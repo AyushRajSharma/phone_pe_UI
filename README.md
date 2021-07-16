@@ -12,6 +12,19 @@
 UI clone of PhonePe. The Popular payment app in india.
 </p>
 
+## Screenshots
+
+<p align="center">
+ <img src="https://github.com/AyushRajSharma/phone_pe_UI/blob/master/phone_pe/assets/home.png" width="250">
+<img src="https://github.com/AyushRajSharma/phone_pe_UI/blob/master/phone_pe/assets/switch.png" width="250">
+<img src="https://github.com/AyushRajSharma/phone_pe_UI/blob/master/phone_pe/assets/mymoney.png" width="250">
+<img src="https://github.com/AyushRajSharma/phone_pe_UI/blob/master/phone_pe/assets/history.png" width="250">
+
+  </p>
+
+<p align="center"> If you 😍😍 liked it give it star!! 
+Thanks!</p>
+
 ## Version
 * version: 1.0.0+1
 
